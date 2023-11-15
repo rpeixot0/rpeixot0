@@ -6,7 +6,7 @@ Olá! Meu nome é Renato, e atualmente estou aprendendo programação back-end!
 
 <div>
 <!--   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rpeixot0&show_icons=true&theme=dark#gh-dark-mode-only"> </br> -->
-  <img align="center" href"" width="15%"> </br> 
+ </br> 
   <img align="center" height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpeixot0"> </br>
   <a href="https://open.spotify.com/user/22rmryke6akv5esno7mb7vtza?si=39f8d74f9c614e06">
   <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a>
