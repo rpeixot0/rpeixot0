@@ -7,7 +7,7 @@
 <div>
 <!--   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rpeixot0&show_icons=true&theme=dark#gh-dark-mode-only"> </br> -->
  </br> 
-  <img align="center" height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpeixot0"> </br></br>
+  <img align="center" height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpeixot0&layout=compact"> </br></br>
 </div>
 
 ## 
