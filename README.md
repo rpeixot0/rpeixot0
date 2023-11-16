@@ -1,4 +1,4 @@
-## Olá! Meu nome é Renato, e atualmente estou aprendendo programação back-end!
+## Olá! Meu nome é Renato, e atualmente estou aprendendo programação!
 
 - Estudando JavaScript
 - Via e-mail: rpeixot0@hotmail.com
