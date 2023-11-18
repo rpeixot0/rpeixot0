@@ -16,7 +16,8 @@
  
   <a href='https://steamcommunity.com/id/Peixotos/'>
   <img align="center" src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white'> </a> 
-  <img align='center' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'> </br>
+  <a href='https://www.instagram.com/rpeixot0/'>
+  <img align='center' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'> </br> </a>
   
   </br>
   
