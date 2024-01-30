@@ -2,7 +2,7 @@
 ![Header](./peixotoheader5.png)
 
 ##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F969C&center=true&vCenter=true&random=false&width=1000&lines=I'm+Brazillian;I'm+15+years+old;Currently+Learning+JS%2C+CSS+and+HTML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F969C&center=true&vCenter=true&random=false&width=1000&lines=I'm+Brazillian;I'm+16+years+old;Currently+Learning+JS%2C+CSS+and+HTML)](https://git.io/typing-svg)
 ## 
 <div align="center">  
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpeixot0&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=00000000" />
