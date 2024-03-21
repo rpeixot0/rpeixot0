@@ -13,8 +13,7 @@
   <a href="https://open.spotify.com/user/22rmryke6akv5esno7mb7vtza?si=39f8d74f9c614e06">
   <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a> 
  
-  <a href='https://steamcommunity.com/id/Peixotos/'>
-  <img align="center" src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white'> </a> 
+
   <a href='https://www.instagram.com/rpeixot0/'>
   <img align='center' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'> </br> </a>
   
