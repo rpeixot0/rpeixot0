@@ -14,9 +14,6 @@
   <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a> 
  
 
-  <a href='https://www.instagram.com/rpeixot0/'>
-  <img align='center' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'> </br> </a>
-  
   </br>
   
  </br><p align="center"><b>Visitors Count</b></p>  
